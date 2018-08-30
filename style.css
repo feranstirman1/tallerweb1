@@ -1,0 +1,23 @@
+body{
+    background-color: #c5dfc5
+}
+
+i{
+    color:#e7f2e7;
+    font-size: 20em;
+}
+
+.logo{
+    margin-left: 10em;
+}
+.titulo{
+    font-size: 10em;
+}
+
+td{
+    font-size: 5em;
+}
+
+.info{
+    margin-left: 30em;
+}
